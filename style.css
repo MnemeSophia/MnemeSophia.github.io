@@ -4,6 +4,8 @@ body {
 	font-size: 1em;
 	color: #555;
 	padding: 0 1.5em;
+	background: #111;
+    	color: #bbb;
 }
 h1, h2, h3, h4, h5, h6, strong {
 	line-height: 1.2;
